@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nickw/C++ Revival/Chess/Chess/Content/Board.dds","C:/Users/nickw/C++ Revival/Chess/Chess/Content/bin/DesktopGL/Content/Board.xnb","TextureProcessor","Texture2DContent",1183872,1183829,0.1403025
+"C:/Users/nickw/C++ Revival/Chess/Chess/Content/Buttons.dds","C:/Users/nickw/C++ Revival/Chess/Chess/Content/bin/DesktopGL/Content/Buttons.xnb","TextureProcessor","Texture2DContent",146944,146901,0.0053075
+"C:/Users/nickw/C++ Revival/Chess/Chess/Content/Mouse.dds","C:/Users/nickw/C++ Revival/Chess/Chess/Content/bin/DesktopGL/Content/Mouse.xnb","TextureProcessor","Texture2DContent",4608,4565,0.0010589
+"C:/Users/nickw/C++ Revival/Chess/Chess/Content/Pieces.dds","C:/Users/nickw/C++ Revival/Chess/Chess/Content/bin/DesktopGL/Content/Pieces.xnb","TextureProcessor","Texture2DContent",196736,196693,0.0049173
