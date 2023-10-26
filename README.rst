@@ -17,4 +17,4 @@ Getting Started
 -----------
 This project is a Microsoft Visual Studio project. Open the solution file in Visual Studio to see the code and create your own executable.
 
-If you're on Windows and don't want to install Visual Studio, you can launch the standalone executable as is, which is located at ".\Chess\bin\Release\net6.0\win-x64\Chess.exe"
+If you're on Windows and don't want to install Visual Studio, you can launch the standalone executable as is, which is located at ".\\Chess\\bin\\Release\\net6.0\\win-x64\\Chess.exe"
